@@ -1,0 +1,17 @@
+C++Builder - a rapid application development (RAD) environment, originally developed by Borland and as of 2009 owned by Embarcadero Technologies, for writing programs in the C++ programming language targeting Windows and OS X. C++Builder combines the Visual Component Library and IDE written in Delphi with a C++ compiler. Most components developed in Delphi can be used in C++Builder with no or little modification, although the reverse is not true.
+C++Builder includes tools that allow drag-and-drop visual development, making programming easier by incorporating a WYSIWYG graphical user interface builder.
+
+MyEclipsE 2014 - a commercially available Java EE and Ajax IDE created and maintained by the company Genuitec, a founding member of the Eclipse Foundation.
+MyEcliPse is built upon the Eclipse platform, and integrates both proprietary and open source code into the development environment.
+MyEclipse has two primary versions (apart from the "Blue Edition and "MyEclipse Spring Edition referred to below): a professional and a standard edition. The standard edition adds database tools, a visual web designer, persistence tools, Spring tools, Struts and JSF tooling, and a number of other features to the basic Eclipse Java Developer profile. It competes with the Web Tools Project, which is a part of Eclipse itself, but MyEclipse is a separate project entirely and offers a different feature set.
+
+Anjuta - an integrated development environment written for the GNOME project. It has support for the C, C++, Java, JavaScript, Python and Vala programming languages. It comes standard on base installation DVDs of major Linux distributions such as Ubuntu, openSUSE, Fedora, and Mandriva Linux (amongst others).
+
+Embarcadero Delphi - an integrated development environment (IDE) for console, desktop graphical, web, and mobile applications.
+Delphi's compilers use their own Object Pascal dialect of Pascal and generate native code for 32- and 64-bit Windows operating systems, as well as 32-bit Mac OS X, iOS and Android. As of late 2011 support for the Linux operating system was planned by Embarcadero.
+Delphi was originally developed by Borland as a rapid application development tool for Windows, and as the successor of Borland Pascal. Delphi and its C++ counterpart, C++Builder, shared many core components, notably the IDE and VCL, but remained separate until the release of RAD Studio 2007. RAD Studio is a shared host for Delphi, C++Builder, and others.
+In 2006, Borland’s developer tools section were transferred to a wholly owned subsidiary known as CodeGear, which was sold to Embarcadero Technologies in 2008.
+
+KDevelop - a free software integrated development environment (IDE) for the KDE Platform on Unix-like computer operating systems. KDevelop includes no compiler; instead, it uses an external compiler such as GCC or Clang to produce executable binaries.
+The current version, 4.7.0, was officially released on 13 September 2014, and will be the last version to use Qt 4 and KDElibs 4, as the next major release will rely on Qt 5 and KDE Frameworks 5. It builds on various KDE Platform 4 technologies and supports C, C++, PHP, and Python development, among others.
+The last stable release of the previous major version, 3.5.5, which is based on K Desktop Environment 3 technology, supports many programming languages such as Ada, Bash, C, C++, Fortran, Java, Pascal, Perl, PHP, Python and Ruby. Released under the GNU General Public License, KDevelop is free software.

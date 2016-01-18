@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01JoroTheFootballPlayer", "01JoroTheFootballPlayer\01JoroTheFootballPlayer.csproj", "{61E22D16-5C70-4133-9AD2-87569EE8C779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02HalfSum", "02HalfSum\02HalfSum.csproj", "{A9776154-0FC0-4679-9E52-57D5C9886E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Sunglasses", "03Sunglasses\03Sunglasses.csproj", "{4C84C5E6-B7A6-4F45-BCBC-350B7497C234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E22D16-5C70-4133-9AD2-87569EE8C779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E22D16-5C70-4133-9AD2-87569EE8C779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E22D16-5C70-4133-9AD2-87569EE8C779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E22D16-5C70-4133-9AD2-87569EE8C779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9776154-0FC0-4679-9E52-57D5C9886E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9776154-0FC0-4679-9E52-57D5C9886E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9776154-0FC0-4679-9E52-57D5C9886E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9776154-0FC0-4679-9E52-57D5C9886E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C84C5E6-B7A6-4F45-BCBC-350B7497C234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C84C5E6-B7A6-4F45-BCBC-350B7497C234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C84C5E6-B7A6-4F45-BCBC-350B7497C234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C84C5E6-B7A6-4F45-BCBC-350B7497C234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
